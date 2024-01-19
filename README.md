@@ -13,6 +13,8 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 </header>
 
+# Testing 1
+## Testing 2
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
