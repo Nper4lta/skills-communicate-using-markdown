@@ -8,3 +8,5 @@
 ``` javascript
 var myVar = "Hello, world";
 ```
+
+- [ ] Doing random things
